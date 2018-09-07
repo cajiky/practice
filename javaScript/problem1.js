@@ -11,4 +11,4 @@ else {
 }
 }
 
-console.log(lessThanOrEqualToZero(-2))
+console.log(lessThanOrEqualToZero(-2));
